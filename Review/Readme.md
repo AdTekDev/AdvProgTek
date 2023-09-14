@@ -10,3 +10,8 @@
 
 ## REFs
 - https://www.w3schools.com/cpp/cpp_classes.asp 
+
+## Trend
+
+![image](https://github.com/AdTekDev/AdvProgTek/assets/18588011/29e52f8b-08b2-416b-a824-6d414de26e0f)
+
