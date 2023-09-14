@@ -7,5 +7,10 @@ SW209 - Advanced Programming Techniques
 ## Group
 - Telegram:  https://t.me/+QbMB_S5AgEthZDFl  
 
+## Tools
+- https://replit.com/languages/cpp
+- VS Code / VS Studio
+- Eclipse
+
 ## REFs
 - https://www.w3schools.com/cpp/cpp_classes.asp  
