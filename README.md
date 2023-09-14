@@ -6,3 +6,5 @@ SW209 - Advanced Programming Techniques
 
 ## Group
 - Telegram:  https://t.me/+QbMB_S5AgEthZDFl  
+
+![image](https://github.com/AdTekDev/AdvProgTek/assets/18588011/710855b7-f330-4424-8e47-b759a89327f4)
