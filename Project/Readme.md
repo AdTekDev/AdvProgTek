@@ -9,8 +9,8 @@
 - List
 - Search
 - View
-- Add
-- Create new
+- Add new
+- Delete
 
 ## Programming Languages
 - C++
