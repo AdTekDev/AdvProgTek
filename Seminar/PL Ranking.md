@@ -1,5 +1,5 @@
 
-# [TOP] Programming Languages (trend 2023)
+# [TOP] Programming Languages (trending 2023)
 
 ## IEEE
 - https://spectrum.ieee.org/the-top-programming-languages-2023  
