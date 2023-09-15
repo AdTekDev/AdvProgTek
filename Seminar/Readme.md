@@ -7,7 +7,7 @@
 3. Fold expression
 4. Multithreading / Parallel / Concurrency
 5. Reader-Writer locks / Mutex lock
-6. Synchronous and Asynchronous
+6. Synchronous and Asynchronous / Callback
 7. Channels / (co)Routines / Reflection
 8. Assert / Exception / Error Handle 
 
