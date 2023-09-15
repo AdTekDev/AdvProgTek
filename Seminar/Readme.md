@@ -33,7 +33,7 @@
 
 ## Requirements
 - PPTx (30+ slides)
-- Examples / Principles
+- Define / Principles / Flow / Diagram / Syntax / Examples / ...
 - Code
 - Demo
 - Guide (install, compile, run)
