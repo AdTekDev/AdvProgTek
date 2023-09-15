@@ -85,3 +85,23 @@
 19. **Rust**
 20. Perl
 
+## JobsScanner
+
+1. JavaScript / TypeScript
+2. Python
+3. Java
+4. C#
+5. PHP
+6. C/C++
+7. Ruby
+8. GO
+9. SQL
+10. Scala
+11. Kotlin
+12. Dart
+13. Rust
+14. Solidity
+15. Swift
+16. ABAP
+17. Lua
+18. Bash
