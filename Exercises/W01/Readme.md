@@ -10,8 +10,8 @@ int C;
 
 ## Code 02
 
-int a,b,c;
-c = a + b;
+double a,b,c;   
+c = a + b;   
 
-- Check  c == a ?! 
+- Check  c == a ?!   
 
