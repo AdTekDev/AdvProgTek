@@ -5,7 +5,7 @@ SW209 - Advanced Programming Techniques
 - https://drive.google.com/drive/folders/1D8hmkFps0HkVTRlWm-W5ZRz9js5jDTKh?usp=sharing  
 
 ## Group
-- Telegram:  https://t.me/+K98fNrLOnvJjMjA1  
+- Telegram
 
 ## Tools
 - https://replit.com/languages/cpp
@@ -14,3 +14,6 @@ SW209 - Advanced Programming Techniques
 
 ## REFs
 - https://www.w3schools.com/cpp/cpp_classes.asp  
+
+## Survey
+- https://forms.gle/JTPLa6xgo1PLAb97A 
