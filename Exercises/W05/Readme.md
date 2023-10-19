@@ -20,3 +20,11 @@
 - The system shall charge the customer for an extra night if they checkout after 11:00 m.The system shall mark guaranteed rooms as “must pay” after 6:00 pm on the check-in date.
 - The system shall record customer feedback
 
+### SD (ref)
+
+![image](https://github.com/AdTekDev/AdvProgTek/assets/18588011/02e013c2-15a5-4dfe-ad1f-afd4e3671bd0)
+
+![image](https://github.com/AdTekDev/AdvProgTek/assets/18588011/d56cf07b-02c8-4bf6-b344-62de104b9531)
+
+![image](https://github.com/AdTekDev/AdvProgTek/assets/18588011/5454e3df-9653-40c6-8570-9caae78a5677)
+
