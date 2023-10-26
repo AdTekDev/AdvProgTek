@@ -1,14 +1,14 @@
 
 # W06 - Routine [2]
 
-Implement the process of booking a hotel room using the **getRooms** method from the **HotelLocation** class, along with checking the availability of a room at a given time using the **isRoomAvailable** method from the **Room** class
+Implement the process of booking a hotel room using the **getAvailableRooms** method from the **HotelLocation** class, along with checking the availability of a room at a given time using the **isRoomAvailable** method from the **Room** class
 
 ## HotelLocation Class
-Method 1: **getRooms**
+Method 1: **getAvailableRooms**
 
 ### **Parameters**
 
-- roomType (Type: String) - The type of room the guest is looking for (e.g., "Single", "Double", "Suite").  
+- roomType (Type: RoomStyle) - The type of room the guest is looking for (e.g., "Single", "Double", "Suite").  
 - checkinDate (Type: Date) - The check-in date specified by the guest.
 - checkoutDate (Type: Date) - The check-out date specified by the guest.
 
