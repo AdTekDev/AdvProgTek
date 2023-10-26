@@ -25,3 +25,26 @@ Method 2: **isRoomAvailable**
 
 ### **Description**
 This method should check whether the room is available for booking during the specified date range. It should return a boolean value (true or false) to indicate whether the room is available or not. The method should compare the check-in and check-out dates provided with the room's existing bookings to determine availability.
+
+
+## Others
+
+The **HotelLocation** class has a **relationship** with the **Room** class through the **roomList** attribute, which stores the available rooms that the hotel location can offer to guests.
+
+### Method A: **addRoom**
+
+**Parameters**:
+
+- room (Type: Room) - The room object to be added to the list of available rooms for the hotel location.
+
+**Description**:
+This method allows you to add a room to the list of available rooms at the hotel location. It should update the roomList attribute to include the new room, making it available for booking.
+
+### Method B: removeRoom
+
+**Parameters**:
+
+- roomId (Type: int) - The room object to be removed from the list of available rooms.
+- 
+**Description**:
+This method allows you to remove a room from the list of available rooms. It might be used, for example, to take a room out of service for maintenance or repairs. The method should update the roomList attribute accordingly.
