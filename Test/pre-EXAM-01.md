@@ -8,13 +8,13 @@ The following code is intended to replace all occurrence of substring sub1 by a 
 ```C++
 void replacestr(char * str, char * sub1, char * nst)
 {
-int lsub1= strlen(sub1);
-int lstr=strlen(nst);
-int location = findfirst(str, sub1);
-if (location!=-1) {
-movestr(&str[location+lsub1],&str[location+lnstr]);
-replacestr(&str[location+lsub1],sub1, nst);
-}
+  int lsub1= strlen(sub1);
+  int lstr=strlen(nst);
+  int location = findfirst(str, sub1);
+  if (location!=-1) {
+    movestr(&str[location+lsub1],&str[location+lnstr]);
+    replacestr(&str[location+lsub1],sub1, nst);
+  }
 }
 ```
 
