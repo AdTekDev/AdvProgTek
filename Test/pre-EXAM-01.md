@@ -25,3 +25,42 @@ here:
 - **movestr (char * src, char * dest)** move the substring at src to dst.  
 
 Will the above implementation generates the desired result? if not, what is the problem and how to fix it?
+
+## Q02
+
+Subject of study is the (valid) C++ code below.
+
+```C++
+
+# i n cl u d e <i o st r e a m >
+class A {
+  publi c :
+    int i ;
+
+    A ( ) {
+      i = 0 ;
+    }
+} ;
+
+void fun (A a )
+{
+  a.i += 1 ;
+  std::cout << a.i << std : : endl ;
+}
+
+int main ( int argc , char ∗ argv [ ] )
+{
+  A a ;
+  fun ( a ) ; / / f u n c t i o n c a l l
+  std::cout << a.i << std::endl ;
+  return 0 ;
+}
+```
+
+- Write down the terminal output of the program
+- Rewrite function **fun** and the code in its scope to use **call-by-reference** instead of **call-by-value**. The output has to remain the same, and the application’s overall semantics (states) have to be preserved as well.
+
+
+
+
+  
