@@ -32,7 +32,7 @@ Subject of study is the (valid) C++ code below.
 
 ```C++
 
-# i n cl u d e <i o st r e a m >
+#include <iostream>
 class A {
   publi c :
     int i ;
