@@ -25,8 +25,8 @@ bool
 
 ### Attributes:
 
-- checkinDate (DateTime): The check-in date for the booking.
-- checkoutDate (DateTime): The check-out date for the booking.
+- checkin (DateTime): The check-in date for the booking.
+- checkout (DateTime): The check-out date for the booking.
 
 ### Method: checkOverlap
 
