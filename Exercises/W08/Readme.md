@@ -24,7 +24,8 @@ Evaluate the code for user inputs. Implement validation checks to ensure that th
 - Effective input validation.
 - Explanation of changes and validation methods used.
 
-
+## Checklist
+- https://github.com/AdTekDev/AdvProgTek/blob/main/Exercises/Checklists.md 
 
 
 
