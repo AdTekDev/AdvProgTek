@@ -31,8 +31,8 @@ Short Names
 ❑ Does the code use long names (unless it’s necessary to use short ones)?  
 ❑ Does the code avoid abbreviations that save only one character?  
 ❑ Are all words abbreviated consistently?  
-❑ Are the names pronounceable?
-❑ Are names that could be misread or mispronounced avoided?
+❑ Are the names pronounceable?  
+❑ Are names that could be misread or mispronounced avoided?  
 ❑ Are short names documented in translation tables?  
 
 
