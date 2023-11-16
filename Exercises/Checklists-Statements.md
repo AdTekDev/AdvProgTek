@@ -3,7 +3,7 @@
 
 ## Using Conditionals  
 
-**if-then Statements**  
+**if-then Statements**    
 ❑ Is the nominal path through the code clear?  
 ❑ Do if-then tests branch correctly on equality?  
 ❑ Is the else clause present and documented?  
@@ -11,13 +11,13 @@
 ❑ Are the if and else clauses used correctly—not reversed?  
 ❑ Does the normal case follow the if rather than the else?  
 
-**if-then-else-if Chains**
+**if-then-else-if Chains**  
 ❑ Are complicated tests encapsulated in boolean function calls?  
 ❑ Are the most common cases tested first?  
 ❑ Are all cases covered?  
 ❑ Is the if-then-else-if chain the best implementation—better than a case statement?  
 
-**case Statements** 
+**case Statements**    
 ❑ Are cases ordered meaningfully?  
 ❑ Are the actions for each case simple—calling other routines if necessary?  
 ❑ Does the case statement test a real variable, not a phony one that’s made up solely to use and abuse the case statement?  
@@ -26,7 +26,7 @@
 ❑ In C, C++, or Java, does the end of each case have a break?  
 
 
-## Loops
+## Loops  
 
 **Loop Selection and Creation**  
 ❑ Is a while loop used instead of a for loop, if appropriate?  
@@ -74,7 +74,7 @@
 ❑ Is the routine’s depth of recursion within the limits imposed by the size of the program’s stack?  
 ❑ Is recursion the best way to implement the routine? Is it better than simple iteration?  
 
-**goto**
+**goto**  
 ❑ Are gotos used only as a last resort, and then only to make code more readable and maintainable?  
 ❑ If a goto is used for the sake of efficiency, has the gain in efficiency been measured and documented?  
 ❑ Are gotos limited to one label per routine?  
