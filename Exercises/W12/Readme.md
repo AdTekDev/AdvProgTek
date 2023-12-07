@@ -1,5 +1,5 @@
 
-# Compile project !
+# Compile C++ project !
 
 
 ## Tools
