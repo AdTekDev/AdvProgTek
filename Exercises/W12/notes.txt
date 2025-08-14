@@ -1,0 +1,18 @@
+
+-------------------------------------- (url)
+install Cmake 
+
+
+-------------------------------------- (terminal / cmd / Developer Command Prompt for VS 2022)
+
+cd build
+
+cmake ..
+
+
+cmake --build . --config Release
+
+cd Release
+
+LMS.exe
+
