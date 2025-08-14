@@ -1,6 +1,11 @@
 
 -------------------------------------- (url)
-install Cmake 
+install Cmake - https://cmake.org/download/  
+
+compiler:
+- visual - msvc
+- clang
+- gcc/g++
 
 
 -------------------------------------- (terminal / cmd / Developer Command Prompt for VS 2022)
@@ -15,4 +20,5 @@ cmake --build . --config Release
 cd Release
 
 LMS.exe
+
 
